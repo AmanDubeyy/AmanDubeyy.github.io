@@ -21,4 +21,4 @@ Used :
 
 # Website Link :
 
-[Website](https://amandubey.github.io/SortingVisualizer/)
+[Website](https://amandubeyy.github.io/SortingVisualizer/)
