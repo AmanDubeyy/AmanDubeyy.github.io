@@ -1,4 +1,4 @@
-# AmanDubey.github.io
+# AmanDubey
 
 #Randomize : This will arrange the bars in the random order
 
