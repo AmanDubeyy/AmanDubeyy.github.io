@@ -20,5 +20,5 @@ Used :
 6. Quick Sort
 
 # Website Link :
+[Website](https://amandubeyy.github.io/SortingVisualizer/){:target="_blank" rel="noopener noreferrer"}
 
-<a href="https://amandubeyy.github.io/SortingVisualizer/" target="_blank">Website</a>
