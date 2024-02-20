@@ -21,4 +21,4 @@ Used :
 
 # Website Link :
 
-[Website](https://amandubeyy.github.io/SortingVisualizer/)
+<a href="https://amandubeyy.github.io/SortingVisualizer/" target="_blank">Website</a>
